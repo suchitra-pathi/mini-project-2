@@ -526,7 +526,7 @@ Available operations:
 5. Admin View
 6. Exit
 Enter option: 3
-Enter your subject code: ECE101
+Enter your subject code: CSE1001
 
 Available operations: 
 1. Add data about marks
@@ -549,7 +549,7 @@ Available operations:
 6. Exit
 Enter option: 5
 Enter the admin password:  admin
-Reg No.     Name    ECE101   ECE102  Proctor ID
+Reg No.     Name    CSE1001   CSE1002  Proctor ID
 185678Ts    Sravani  0        0      12345i
 185688Ts    Ravi     0        0      12346i
 185679Ts    Arjun    0        0      12347i
